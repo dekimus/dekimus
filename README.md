@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/dekimus/dekimus/main/banner.jpg" alt="Banner Perfil GitHub" width="100%" />
+<img src="https://raw.githubusercontent.com/dekimus/dekimus/main/banner.jpeg" alt="Banner Perfil GitHub" width="100%" />
 
 <h1 align="center">Hey, I'm Dekimus 👋</h1>
 
