@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Israel 👋</h1>
+<h1 align="center">Hey, I'm Dekimus 👋</h1>
 
 <p align="center">
   <strong>Software · Linux · Cybersecurity · Open Source · Curiosity</strong>
